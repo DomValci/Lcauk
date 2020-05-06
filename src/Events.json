@@ -1,0 +1,8 @@
+{
+    "Match": {
+        "event": { "date": "Date | Time", "format": "Format" }
+    },
+    "Crwosheath Cup": {
+        "event": { "date": "March 22-24", "format": "Pairs" }
+    }
+}

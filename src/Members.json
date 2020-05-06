@@ -1,0 +1,80 @@
+{
+    "Events": {
+        "event1": "Crowsh",
+        "event2": "Chase",
+        "event3": "Frisby",
+        "event4": "Whitev",
+        "event5": "Berners",
+        "event6": "Sandhur",
+        "events": "???",
+        "total": "Total"
+
+    },
+    "Ovidijus Blankas": {
+        "points1": 6,
+        "points2": 0,
+        "points3": 0,
+        "points4": 0,
+        "points5": 0,
+        "points6": 0,
+        "points": 0,
+        "total": "6-12"
+    },
+    "Modestas Druktenis": {
+        "points1": 6,
+        "points2": 0,
+        "points3": 0,
+        "points4": 0,
+        "points5": 0,
+        "points6": 0,
+        "points": 0,
+        "total": "6-12"
+    },
+    "Marius Gavrilovas": {
+        "points1": 13,
+        "points2": 0,
+        "points3": 0,
+        "points4": 0,
+        "points5": 0,
+        "points6": 0,
+        "points": 0,
+        "total": "13"
+    },
+    "Aurimas Belickas": {
+        "points1": 2,
+        "points2": 0,
+        "points3": 0,
+        "points4": 0,
+        "points5": 0,
+        "points6": 0,
+        "points": 0,
+        "total": "2"
+    },
+    "Mantas Kasparavicius": {
+        "points": [6, 0, 0, 0, 0, 0, 0, "6-12"]
+    },
+    "Rimvis Patasius": {
+        "points": [4, 0, 0, 0, 0, 0, 0, "4"]
+    },
+    "Andrius Mazeika": [2, 0, 0, 0, 0, 0, 0, "2"],
+    "Airis Gerikas": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Antanas Cerneckis": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Dimitrij Ivanov": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Genadij Narkevic": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Arturas Orlas": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Egis stanys": [1, 0, 0, 0, 0, 0, 0, "1"],
+    "Mindas St": [4, 0, 0, 0, 0, 0, 0, "4"],
+    "Aurimas Rackaukas": [3, 0, 0, 0, 0, 0, 0, "3"],
+    "Aivaras Poskus": [13, 0, 0, 0, 0, 0, 0, "13"],
+    "Ramunas Busma": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Lukas Balkus": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Martynas ZX": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Edvinas Fomkinas": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Arturas Panucci": [1, 0, 0, 0, 0, 0, 0, "1"],
+    "Vidmantas Andzelys": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Mindaugas Slatkevicius": [6, 0, 0, 0, 0, 0, 0, "6-12"],
+    "Kestutis Jarasiunas": [5, 0, 0, 0, 0, 0, 0, "5"],
+    "Kastytis Barcis ": [5, 0, 0, 0, 0, 0, 0, "5"],
+    "Raimis Kaspa": [3, 0, 0, 0, 0, 0, 0, "3"]
+
+}
